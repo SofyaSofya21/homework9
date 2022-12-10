@@ -19,7 +19,6 @@ int SumBetweenElements(int m, int n)
         return m;
 }
 
-
 int ReadInt(string message)
 {
     Console.Write(message);
